@@ -23,24 +23,14 @@ It should rather be used as a quick lookup list, for detailed and comprehensive 
 
 
 
-
-* Fruit
-  * Apple
-  * Orange
-  * Banana
-* Dairy
-  * Milk
-  * Cheese
-
-
-<table><thead>
-  <tr>
-    <th>a</th>
-    <th>b</th>
-  </tr></thead>
+<table>
 <tbody>
   <tr>
     <td colspan="2">Core Spring</td>
+  </tr>
+  <tr>
+    <td>Bean</td>
+    <td>@Bean</td>
   </tr>
   <tr>
     <td>stereotype</td>
