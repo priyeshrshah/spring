@@ -36,7 +36,8 @@ It should rather be used as a quick lookup list, for detailed and comprehensive 
 
 | Category              | Controller | 
 | :---------------- | :------: |
-| Core Spring        | @Bean, @Component, @Controller, @RestController, @Configuration, @Service, @Repository | 
+| Core Spring        | @Bean, stereotype: @Component, @Controller, @RestController, @Configuration, @Service, @Repository  | 
+| Core Spring        | Bean State: @PostConstruct, @PreDestroy | 
 
 ## Core Spring
 
