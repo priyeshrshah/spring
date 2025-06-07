@@ -22,6 +22,15 @@ It should rather be used as a quick lookup list, for detailed and comprehensive 
 - [Spring AOP](#spring-aop)
 
 
+* Fruit
+  * Apple
+  * Orange
+  * Banana
+* Dairy
+  * Milk
+  * Cheese
+
+
 ## Core Spring
 
 - [@Bean][bean] - Annotated method produces a bean managed by the Spring IoC container
