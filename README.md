@@ -1,5 +1,4 @@
-# spring
-# List of frequently used annotations in Spring Boot apps 
+# Spring Boot Annotations 
 
 <table>
 <tbody>
