@@ -33,6 +33,27 @@ It should rather be used as a quick lookup list, for detailed and comprehensive 
   * Cheese
 
 
+<table><thead>
+  <tr>
+    <th>a</th>
+    <th>b</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td colspan="2">Core Spring</td>
+  </tr>
+  <tr>
+    <td>stereotype</td>
+    <td>@Component, @Controller, @RestController, @Configuration, @Service, @Repository</td>
+  </tr>
+  <tr>
+    <td>Bean State</td>
+    <td>@PostConstruct, @PreDestroy</td>
+  </tr>
+</tbody>
+</table>
+
+
 
 | Category              | Controller | 
 | :---------------- | :------: |
