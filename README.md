@@ -52,9 +52,46 @@ It should rather be used as a quick lookup list, for detailed and comprehensive 
     <td>Bean Injection</td>
     <td>@Autowired, @Qualifier</td>
   </tr>
+  <tr>
+    <td>Validation</td>
+    <td>@Valid, @Validated, @NotNull, @NotEmpty, @NotBlank, @Digits, @Past, @Future</td>
+  </tr>
+  <tr>
+    <td colspan="2">Spring Boot</td>
+  </tr>
+  <tr>
+    <td>Application</td>
+    <td>@SpringBootConfiguration, @EnableAutoConfiguration, @ConfigurationProperties, @ConstructorBinding, @ConfigurationPropertiesScan, @SpringBootApplication, @EntityScan, @EnableJpaRepositories</td>
+  </tr>
+  <tr>
+    <td>Spring Boot Tests</td>
+    <td>@SpringBootTest, @WebMvcTest, @DataJpaTest, @JsonTest, @MockBean, @SpyBean, @Mock</td>
+  </tr>
+  <tr>
+    <td>Spring Test</td>
+    <td>@ContextConfiguration, @ExtendWith, @SpringJUnitConfig, @TestPropertySource, @DirtiesContext, @ActiveProfiles, @Sql</td>
+  </tr>
+  <tr>
+    <td>Transactions</td>
+    <td>@EnableTransactionManagement, @Transactional</td>
+  </tr>
 
+  <tr>
+    <td>JPA</td>
+    <td>@Id, @GeneratedValue, @Entity, @Column, @Table, @PersistenceContext, @Embedded, @Embeddable, @EmbeddedId, @AttributeOverride, @Transient, @CreationTimestamp, @UpdateTimestamp, @ManyToOne, @JoinColumn, @OneToOne, @MapsId, @ManyToMany, @JoinTable, @BatchSize, @FetchMode</td>
+  </tr>
+  <tr>
+    <td>Spring Security</td>
+    <td>@EnableWebSecurity, @EnableGlobalMethodSecurity, @PreAuthorize, @PostAuthorize, @RolesAllowed, @Secured</td>
+  </tr>
+  <tr>
+    <td>AOP</td>
+    <td>@EnableAspectJAutoProxy, @Aspect, @Before, @AfterReturning, @AfterThrowing, @After, @Around, @Pointcut</td>
+  </tr>
 </tbody>
 </table>
+
+
 
 
 
