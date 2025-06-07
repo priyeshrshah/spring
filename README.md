@@ -40,15 +40,24 @@ It should rather be used as a quick lookup list, for detailed and comprehensive 
     <td>Bean State</td>
     <td>@PostConstruct, @PreDestroy</td>
   </tr>
+  <tr>
+    <td>Configuration</td>
+    <td>@Import, @PropertySource, @Value, @ComponentScan</td>
+  </tr>
+  <tr>
+    <td>Bean Properties</td>
+    <td>@Lazy, @Profile, @Scope, @DependsOn, @Order, @Primary, @Conditional, @ConditionalOnBean, @ConditionalOnMissingBean, @ConditionalOnClass, @ConditionalOnMissingClass, @ConditionalOnProperty, @ConditionalOnMissingProperty</td>
+  </tr>
+  <tr>
+    <td>Bean Injection</td>
+    <td>@Autowired, @Qualifier</td>
+  </tr>
+
 </tbody>
 </table>
 
 
 
-| Category              | Controller | 
-| :---------------- | :------: |
-| Core Spring        | @Bean, stereotype: @Component, @Controller, @RestController, @Configuration, @Service, @Repository  | 
-| Core Spring        | Bean State: @PostConstruct, @PreDestroy | 
 
 ## Core Spring
 
