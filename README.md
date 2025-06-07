@@ -22,6 +22,8 @@ It should rather be used as a quick lookup list, for detailed and comprehensive 
 - [Spring AOP](#spring-aop)
 
 
+
+
 * Fruit
   * Apple
   * Orange
@@ -30,6 +32,16 @@ It should rather be used as a quick lookup list, for detailed and comprehensive 
   * Milk
   * Cheese
 
+
+
+| Category              | Controller | Description |
+| :---------------- | :------: | ----: |
+| Core Spring        |   @Component   | Marks annotated class as a bean found by the component-scanning and loaded into the application context |
+|            |   @Controller   | 23.99 |
+|     |  @RestController   | 19.99 |
+|  |  @Configuration   | 42.99 |
+|  |  @Service   | 42.99 |
+|  |  @Repository   | 42.99 |
 
 ## Core Spring
 
